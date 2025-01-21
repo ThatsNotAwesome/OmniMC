@@ -1,2 +1,2 @@
 # TA Launcher
-An alternate Minecraft launcher.
+An alternative Minecraft launcher.
