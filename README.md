@@ -1,2 +1,2 @@
-# TA Agent
-An alternative Minecraft launcher.
+# OmniMC
+A Minecraft launcher.
