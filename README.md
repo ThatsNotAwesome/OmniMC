@@ -1,2 +1,2 @@
-# TA-Client
-A Minecraft client.
+# OmniMC
+An alternate Minecraft launcher.
