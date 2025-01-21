@@ -1,2 +1,2 @@
-# TA Launcher
+# TA Agent
 An alternative Minecraft launcher.
